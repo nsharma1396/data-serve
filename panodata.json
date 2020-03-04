@@ -1,14 +1,17 @@
 [
   {
     "id": "1",
-    "name": "panorama-rocky-beach.jpg"
+    "file": "panorama-rocky-beach.jpg",
+    "name": "Rocky Beach"
   },
   {
     "id": "2",
-    "name": "panorama-pier-14.jpg"
+    "file": "panorama-pier-14.jpg",
+    "name": "Pier"
   },
   {
     "id": "3",
-    "name": "panorama-miami.jpg"
+    "file": "panorama-miami.jpg",
+    "name": "Miami"
   }
 ]
